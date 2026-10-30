@@ -1,0 +1,6 @@
+[
+  {"id":"vpn-password","query":"My VPN stopped connecting right after I changed my password.","expected_terms":["saved VPN credentials","new password"],"expected_source":"vpn.md"},
+  {"id":"suspicious-mail","query":"I got a suspicious email with an attachment. Should I open it?","expected_terms":["report-phishing","attachments"],"expected_source":"email.md"},
+  {"id":"access-request","query":"I get access denied in an internal app. Can you add me to the group?","expected_terms":["manager","approval"],"expected_source":"access.md"},
+  {"id":"slow-device","query":"My laptop has been slow all morning.","expected_terms":["device","restart"],"expected_source":"device.md"}
+]

@@ -1,0 +1,5 @@
+[
+  {"device_id":"LAP-1042","owner":"demo.user","platform":"Windows 11","vpn_profile":"Corporate Remote Access","endpoint_status":"healthy"},
+  {"device_id":"LAP-2088","owner":"demo.user","platform":"macOS 15","vpn_profile":"Corporate Remote Access","endpoint_status":"healthy"},
+  {"device_id":"VDI-0301","owner":"finance.demo","platform":"Windows 11 VDI","vpn_profile":"Corporate Remote Access","endpoint_status":"needs_attention"}
+]
